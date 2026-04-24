@@ -35,6 +35,8 @@ const APP_FILTER_OPTIONS: AppTypeFilter[] = [
   "claude",
   "codex",
   "gemini",
+  "openclaw",
+  "opencode",
 ];
 
 export function UsageDashboard() {
